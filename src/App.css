@@ -1,2 +1,12 @@
 .App {
+    text-align: center;
+}
+
+.Home, .Param {
+    margin-top: 4rem;
+}
+
+.MoreParam {
+    margin-top: 4rem;
+    padding: 1.2rem 0;
 }
